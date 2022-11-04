@@ -147,6 +147,10 @@
 # add more here...
 };
 
+:global CheckLteStateUpdateBtestHost "example.com";
+:global CheckLteStateUpdateBtestUser "mikrotik";
+:global CheckLteStateUpdateBtestPassword "v3ry-s3cr3t";
+
 # This is the address used to send gps data to.
 :global GpsTrackUrl "https://example.com/index.php";
 
